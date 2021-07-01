@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  background-color: lavender;
+}
+div {
+  margin-top: 15px;
+}
+.image-section {
+  display: flex;
+    justify-content: center;
+}
+.section-style {
+  margin-left: 25px;
+    margin-right: 25px;
+  background-color: white;
+}
+#image1{
+  width: 270px
+}
+#image2 {
+  width: 270px
+}
+#image3 {
+  width: 270px
+}
+#image4 {
+  width: 270px
+}
